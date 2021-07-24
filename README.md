@@ -4,6 +4,8 @@ A Full-stack web developer. I enjoy solving programming puzzles and problems, an
 
 I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world.
 
+If you would like to work in a project together, feel free to ask me
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-arturo-ortega-guanipa-39a1a5204//)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosarturoortegaguanipa@gmail.com)
